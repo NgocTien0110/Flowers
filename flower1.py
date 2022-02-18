@@ -1,4 +1,9 @@
-
+"""
+-*- coding: utf-8 -*-
+@Author: Đặng Ngọc Tiến
+@Facebook: https://www.facebook.com/tientiti2001/
+@Github: https://github.com/NgocTien0110
+"""
 
 
 import numpy as np
